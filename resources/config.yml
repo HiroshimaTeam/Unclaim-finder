@@ -1,0 +1,9 @@
+---
+unclaim_finder: "388:0"
+
+frame rate: 20 # 20 = 1 sec
+
+type: popup # popup | message | tip
+
+message: "§6- §eIl y a §a{%}% §6-"
+...

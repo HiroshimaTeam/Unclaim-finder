@@ -1,0 +1,5 @@
+name: unclaim_finder
+version: 1.0.0
+api: 3.0.0
+author: refaltor
+main: refaltor\unclaim_finder\Main
