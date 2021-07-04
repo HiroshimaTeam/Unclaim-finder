@@ -1,7 +1,7 @@
 # Unclaim finder - HiroTeam
 ---
 ### About
-![TopLuck](icon.png)
+![Unclaim Finder](logo.png)
 
 
 [ENG] This is a [PocketMine-MP](https://github.com/pmmp/PocketMine-MP) (or forks) plugin allows to add a Bag on your server. ! <br/>
